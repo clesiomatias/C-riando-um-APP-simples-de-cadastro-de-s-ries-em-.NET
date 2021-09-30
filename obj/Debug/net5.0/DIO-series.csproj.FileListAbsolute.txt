@@ -1,0 +1,16 @@
+/media/clesio/HD_Diversos/Desenvolvimento/Curso Digital Inovation/Bootcamp TakeBlip/Criando um APP simples de cadastro de séries em .NET/DIO-series/obj/Debug/net5.0/DIO-series.csproj.AssemblyReference.cache
+/media/clesio/HD_Diversos/Desenvolvimento/Curso Digital Inovation/Bootcamp TakeBlip/Criando um APP simples de cadastro de séries em .NET/DIO-series/obj/Debug/net5.0/DIO-series.GeneratedMSBuildEditorConfig.editorconfig
+/media/clesio/HD_Diversos/Desenvolvimento/Curso Digital Inovation/Bootcamp TakeBlip/Criando um APP simples de cadastro de séries em .NET/DIO-series/obj/Debug/net5.0/DIO-series.AssemblyInfoInputs.cache
+/media/clesio/HD_Diversos/Desenvolvimento/Curso Digital Inovation/Bootcamp TakeBlip/Criando um APP simples de cadastro de séries em .NET/DIO-series/obj/Debug/net5.0/DIO-series.AssemblyInfo.cs
+/media/clesio/HD_Diversos/Desenvolvimento/Curso Digital Inovation/Bootcamp TakeBlip/Criando um APP simples de cadastro de séries em .NET/DIO-series/obj/Debug/net5.0/DIO-series.csproj.CoreCompileInputs.cache
+/media/clesio/HD_Diversos/Desenvolvimento/Curso Digital Inovation/Bootcamp TakeBlip/Criando um APP simples de cadastro de séries em .NET/DIO-series/bin/Debug/net5.0/DIO-series
+/media/clesio/HD_Diversos/Desenvolvimento/Curso Digital Inovation/Bootcamp TakeBlip/Criando um APP simples de cadastro de séries em .NET/DIO-series/bin/Debug/net5.0/DIO-series.deps.json
+/media/clesio/HD_Diversos/Desenvolvimento/Curso Digital Inovation/Bootcamp TakeBlip/Criando um APP simples de cadastro de séries em .NET/DIO-series/bin/Debug/net5.0/DIO-series.runtimeconfig.json
+/media/clesio/HD_Diversos/Desenvolvimento/Curso Digital Inovation/Bootcamp TakeBlip/Criando um APP simples de cadastro de séries em .NET/DIO-series/bin/Debug/net5.0/DIO-series.runtimeconfig.dev.json
+/media/clesio/HD_Diversos/Desenvolvimento/Curso Digital Inovation/Bootcamp TakeBlip/Criando um APP simples de cadastro de séries em .NET/DIO-series/bin/Debug/net5.0/DIO-series.dll
+/media/clesio/HD_Diversos/Desenvolvimento/Curso Digital Inovation/Bootcamp TakeBlip/Criando um APP simples de cadastro de séries em .NET/DIO-series/bin/Debug/net5.0/ref/DIO-series.dll
+/media/clesio/HD_Diversos/Desenvolvimento/Curso Digital Inovation/Bootcamp TakeBlip/Criando um APP simples de cadastro de séries em .NET/DIO-series/bin/Debug/net5.0/DIO-series.pdb
+/media/clesio/HD_Diversos/Desenvolvimento/Curso Digital Inovation/Bootcamp TakeBlip/Criando um APP simples de cadastro de séries em .NET/DIO-series/obj/Debug/net5.0/DIO-series.dll
+/media/clesio/HD_Diversos/Desenvolvimento/Curso Digital Inovation/Bootcamp TakeBlip/Criando um APP simples de cadastro de séries em .NET/DIO-series/obj/Debug/net5.0/ref/DIO-series.dll
+/media/clesio/HD_Diversos/Desenvolvimento/Curso Digital Inovation/Bootcamp TakeBlip/Criando um APP simples de cadastro de séries em .NET/DIO-series/obj/Debug/net5.0/DIO-series.pdb
+/media/clesio/HD_Diversos/Desenvolvimento/Curso Digital Inovation/Bootcamp TakeBlip/Criando um APP simples de cadastro de séries em .NET/DIO-series/obj/Debug/net5.0/DIO-series.genruntimeconfig.cache
